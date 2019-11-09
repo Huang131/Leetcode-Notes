@@ -1,4 +1,3 @@
-# 第一章
 1. [Two Sum](https://leetcode-cn.com/problems/two-sum)
 ```python
 class Solution:
@@ -9,6 +8,7 @@ class Solution:
             d[target - n] = i
 ```
 - 用字典记录 { 需要的值:当前索引 } 时间复杂度:O(n)
+
 
 2. [Add Two Number](https://leetcode-cn.com/problems/add-two-numbers)
 ```python
@@ -22,6 +22,7 @@ class Solution:
         return l1
 ```
 - 用carry记录进位
+
 
 3. [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
 ```python

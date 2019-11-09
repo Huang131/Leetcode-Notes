@@ -8,4 +8,4 @@
 
 
 [GitHub](https://github.com/Huang131/Leetcode-Notes.git)
-[Get Started](#quick-start)
+[开始阅读](#chapter1/chapter1.md)
